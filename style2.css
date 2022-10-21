@@ -1,0 +1,24 @@
+@media all and (max-width: 480px) {
+    #name {
+        font-size: 30px;
+    }
+    #small {
+        font-size: 20px;
+    }
+
+    button {
+        font-size: 20px;
+        padding: 10pt 15pt;
+        right: 20px;
+    }
+    #skills_col{
+        font-size: 25px;
+    }
+    #skill {
+        font-size: 15px;
+    }
+      
+}
+
+
+
