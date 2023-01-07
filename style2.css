@@ -4,6 +4,7 @@
     }
     #small {
         font-size: 20px;
+        color: white;
     }
 
     button {
@@ -12,12 +13,27 @@
         right: 20px;
     }
     #skills_col{
-        font-size: 25px;
+        font-size: 28px;
     }
     #skill {
         font-size: 15px;
     }
-      
+    
+    #projects_header{
+        font-size: 28px;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    #proj1_title, #proj2_title, #proj3_title{
+        font-size: 20px;
+    }
+    a#link{
+        font-size: 20px;
+    }
+    #mail{
+        font-size: 20px;
+        height: 100px;
+    }
 }
 
 
